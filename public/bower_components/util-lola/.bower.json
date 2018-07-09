@@ -1,0 +1,27 @@
+{
+  "name": "util-lola",
+  "main": "util-lola.html",
+  "author": "@manufosela",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2.0.0",
+    "web-component-tester": "Polymer/web-component-tester#^6.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0"
+  },
+  "homepage": "https://github.com/manufosela/util-lola",
+  "version": "2.0.3",
+  "_release": "2.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.0.3",
+    "commit": "992f7acf5323307cc9aefb2f0008be9d44346a8d"
+  },
+  "_source": "https://github.com/manufosela/util-lola.git",
+  "_target": "^2.0.0",
+  "_originalSource": "https://github.com/manufosela/util-lola.git"
+}
